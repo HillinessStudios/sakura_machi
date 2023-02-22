@@ -1,0 +1,21 @@
+{
+    "project_name": "sakura_machi",
+    "project_id": "{ACE63961-741A-4514-B8EF-C4F28C36F976}",
+    "origin": "The primary repo for sakura_machi goes here: i.e. http://www.mydomain.com",
+    "license": "What license sakura_machi uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "sakura_machi",
+    "summary": "A short description of sakura_machi.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "sakura_machi"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "sakura_machi",
+    "gem_names": []
+}
